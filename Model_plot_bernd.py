@@ -2,7 +2,7 @@
 """
 Erweitertes Keras-Beispiel mit mehreren Callbacks und Modell-Plot
 
-@author: Angepasst von OpenAI
+@author: TAKO
 """
 
 import time
